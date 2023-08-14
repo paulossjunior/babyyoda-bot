@@ -34,3 +34,6 @@ python application.py
 ```
 
 7. Type the message on discord: !hello
+
+## Tutoriais
+[Discord Commnads](https://discordpy.readthedocs.io/en/stable/ext/commands/cogs.html)
